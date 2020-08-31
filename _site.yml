@@ -1,0 +1,24 @@
+name: "Haarthi Rajendran"
+output_dir: "."
+navbar:
+  title: "Haarthi Rajendran"
+  left:
+    - text: "CV"
+      href: proj.html
+    - text: "Data Projects"
+      href: dsblog.html
+    - text: "Insights Infinite"
+      href: blog.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/Haarthi-Rajendran
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/haarthirajendran/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

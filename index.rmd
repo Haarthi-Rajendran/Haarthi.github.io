@@ -1,0 +1,11 @@
+---
+title: "index"
+output: html_document
+---
+
+I am Supply Chain Consultant at Llamasoft, Inc. Prior to this role I have worked in Supply Chain internships and projects providing analytical and data expertise.
+
+I love to work on challenging problems that keep me curios and excited. I am an avid learner and publish my projects and insights in my blog.
+I graduated from [Purdue University](https://engineering.purdue.edu/IE) with a Masters in Industrial Engineering.
+
+#My full CV is available [here](files/resume/haarthi.pdf).
